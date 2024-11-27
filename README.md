@@ -4,7 +4,7 @@ This repository contains a fully functional Apple Website Clone built with moder
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aayush-kanholikar-628325207/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kanholikar-628325207/)
 
 # 💻 Tech Stack:
 
